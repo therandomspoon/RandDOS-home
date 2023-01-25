@@ -12,6 +12,6 @@ html,body,#jsdos{width:100%;height:100%;margin:0;padding:0;background-color:#000
 
 /* Handle */
 ::-webkit-scrollbar-thumb {
-  background: red; 
+  background: white; 
   border-radius: 10px;
 }
